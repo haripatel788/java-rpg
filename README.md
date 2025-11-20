@@ -28,5 +28,5 @@ This GitHub repo only includes the **Java source code** for the RPG. All gamepla
 2. Open the `.java` file in any Java-compatible IDE or compiler  
 3. Run the program  
 
-## 🙌 Notes
+## Notes
 This project was created to practice Java fundamentals and structure a simple game using only core programming tools.
